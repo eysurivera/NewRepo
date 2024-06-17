@@ -1,6 +1,0 @@
-[submodule "Admin"]
-	path = Admin
-	url = https://github.com/eysurivera/DentaSys.git
-[submodule "Patient"]
-	path = Patient
-	url = https://github.com/eysurivera/DentaSys.git
